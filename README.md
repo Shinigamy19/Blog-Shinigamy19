@@ -5,6 +5,7 @@ Fue mi blog personal durante la pandemia pero fue creado cerca del 2018
 
 Actualmente es un proyecto abandonado pero quiero retomarlo en algun momento.
 
+Estaba muy mal optimizada pero si quieren probarla pueden ingresar a <a href="https://shinigamy19.repl.co/blog.html"> clickando aca</a> o simplemente pueden ver las capturas.
 
 Previews:
 
